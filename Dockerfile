@@ -1,4 +1,4 @@
-FROM node:24.21 AS builder
+FROM node:24.21 
 
 WORKDIR /Hybrid_analyzer_fr
 
